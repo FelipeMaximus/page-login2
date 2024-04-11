@@ -3,7 +3,7 @@
 ## :camera: Demo
 
 <div align="center" >
-  <img src="https://github.com/FelipeMaximus/page-login2/assets/53831498/590633de-4844-4ee6-9efd-81db1ce6c3d8"height="600">
+  <img src="https://github.com/FelipeMaximus/page-login2/assets/53831498/590633de-4844-4ee6-9efd-81db1ce6c3d8"height="400">
 </div>
 
 # Página de Login
