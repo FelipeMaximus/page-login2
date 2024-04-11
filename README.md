@@ -3,7 +3,7 @@
 ## :camera: Demo
 
 <div align="center" >
-  <img src="https://github.com/FelipeMaximus/page-login/assets/53831498/b40692e0-de04-45fc-b6db-0e471d9f3694"height="300">
+  <img src="https://github.com/FelipeMaximus/page-login2/assets/53831498/590633de-4844-4ee6-9efd-81db1ce6c3d8"height="600">
 </div>
 
 # Página de Login
@@ -15,6 +15,3 @@ Pagina de login muito atraente usando os padroes de UX/UI, sendo totalmente resp
   - [x] CSS3
   - [x] RESPONSIVE
 
-## Deploy on Vercel
-
-[Click aqui](https://page-login-mocha.vercel.app/) para ver a live preview deste projeto.
