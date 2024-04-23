@@ -14,3 +14,7 @@ Pagina de login muito atraente usando os padroes de UX/UI.
   - [x] HTML5
   - [x] CSS
 
+## Deploy on Vercel
+
+[Click aqui]() para ver a live preview deste projeto.
+
