@@ -16,5 +16,5 @@ Pagina de login muito atraente usando os padroes de UX/UI.
 
 ## Deploy on Vercel
 
-[Click aqui]() para ver a live preview deste projeto.
+[Click aqui](https://felipemaximus.github.io/page-login2/) para ver a live preview deste projeto.
 
